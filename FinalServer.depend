@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1401424489 source:d:\cbworkspace\finalserver\supersrv.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
